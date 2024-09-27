@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://orperati.github.io/sitemap.orperati.gz
+Sitemap: https://orperati.github.io/app/sitemap.orperati.gz
+Sitemap: https://orperati.github.io/assets/sitemap.orperati.gz
+Sitemap: https://orperati.github.io/css/sitemap.orperati.gz
+Sitemap: https://orperati.github.io/data/sitemap.orperati.gz
+Sitemap: https://orperati.github.io/includes/sitemap.orperati.gz
+Sitemap: https://orperati.github.io/item/sitemap.orperati.gz
+Sitemap: https://orperati.github.io/src/sitemap.orperati.gz
